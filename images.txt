@@ -3,3 +3,4 @@ python:alpine3.19
 zhayujie/chatgpt-on-wechat
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+xprobe/xinference:latest
