@@ -1,6 +1,5 @@
-xhofe/alist:latest
-python:alpine3.19
-zhayujie/chatgpt-on-wechat
+justsong/one-api:latest
+redis:latest
+mysql:8.2.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-xprobe/xinference:latest
+
