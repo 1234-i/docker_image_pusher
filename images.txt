@@ -2,4 +2,6 @@ justsong/one-api:latest
 redis:latest
 mysql:8.2.0
 #支持指定架构
+justsong/one-api:v0.6.5
+
 
