@@ -1,1 +1,1 @@
---platform linux/arm64 multiarch/qemu-user-static:latest
+--platform linux/arm64 multiarch/qemu-user-static:v7.1.0-2
