@@ -1,1 +1,1 @@
-node:18-alpine
+ xprobe/xinference:v1.7.1
